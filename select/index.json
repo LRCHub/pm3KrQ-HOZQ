@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "好きすぎて滅！(Live)",
+  "base_artist": "M!LK",
+  "createdAt": "2026-03-05T13:21:39.147252Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好きすぎて滅!",
+      "artist": "M!LK",
+      "has_synced": false,
+      "path": "select/pl_01_好きすぎて滅!_M!LK.txt"
+    }
+  ]
+}
